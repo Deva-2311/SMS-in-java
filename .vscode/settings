@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "jdk.runConfig.vmOptions": "--add-modules java.desktop",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
